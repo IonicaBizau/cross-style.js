@@ -20,6 +20,9 @@
     "style",
     "js"
   ],
+  "dependencies": {
+      "ucfirst": "1.0.0"
+  },
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "KINDLY",
   "bugs": {
