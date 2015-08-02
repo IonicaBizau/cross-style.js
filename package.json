@@ -1,0 +1,29 @@
+{
+  "name": "cross-style",
+  "version": "1.0.0",
+  "description": "Get cross-browser CSS properties for a given input.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/cross-style.js.git"
+  },
+  "keywords": [
+    "cross",
+    "browser",
+    "css",
+    "style",
+    "js"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/cross-style.js/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/cross-style.js"
+}
