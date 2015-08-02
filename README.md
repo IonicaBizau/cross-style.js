@@ -30,8 +30,20 @@ $ npm i cross-style
 var CrossStyle = require("cross-style");
 
 console.log(CrossStyle("transform"));
+// =>
+// [ 'webkitTransform',
+//   'mozTransform',
+//   'msTransform',
+//   'oTransform',
+//   'transform' ]
 
 console.log(CrossStyle("transformOrigin"));
+// =>
+// [ 'webkitTransformOrigin',
+//   'mozTransformOrigin',
+//   'msTransformOrigin',
+//   'oTransformOrigin',
+//   'transformOrigin' ]
 
 ```
 
