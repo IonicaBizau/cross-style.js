@@ -1,6 +1,6 @@
 {
   "name": "cross-style",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get cross-browser CSS properties for a given input.",
   "main": "lib/index.js",
   "directories": {
