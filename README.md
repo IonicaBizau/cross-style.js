@@ -5,7 +5,7 @@ Get cross-browser CSS properties for a given input.
 ## Installation
 
 ```sh
-$ npm i -g cross-style
+$ npm i cross-style
 ```
 
 ## Example
