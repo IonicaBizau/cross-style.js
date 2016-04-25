@@ -1,6 +1,6 @@
 {
   "name": "cross-style",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Get cross-browser CSS properties for a given input.",
   "main": "lib/index.js",
   "directories": {
@@ -28,5 +28,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/cross-style.js/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/cross-style.js"
+  "homepage": "https://github.com/IonicaBizau/cross-style.js",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }

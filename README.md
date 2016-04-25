@@ -1,14 +1,18 @@
+
 # cross-style [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/cross-style.svg)](https://www.npmjs.com/package/cross-style) [![Downloads](https://img.shields.io/npm/dt/cross-style.svg)](https://www.npmjs.com/package/cross-style) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Get cross-browser CSS properties for a given input.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save cross-style
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -31,7 +35,8 @@ console.log(CrossStyle("transformOrigin"));
 //   'transformOrigin' ]
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `CrossStyle(input)`
 Returns an array of cross-browser CSS properties for given input.
@@ -42,17 +47,19 @@ Returns an array of cross-browser CSS properties for given input.
 #### Return
 - **Array** An array of strings representing the cross-browser CSS properties for the given input.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`crossy`](https://github.com/IonicaBizau/crossy.js)
 
- - [`css-cross-transform`](https://github.com/IonicaBizau/css.cross-transform.js)
+ - [`crossy`](https://github.com/IonicaBizau/crossy.js)—Modify cross-browser CSS properties with one JavaScript call.
+ - [`css-cross-transform`](https://github.com/IonicaBizau/css.cross-transform.js)—Modify CSS transform properties with one JavaScript call.
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
