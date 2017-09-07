@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Returns an array of cross-browser CSS properties for given input.
 
 #### Params
+
 - **String** `input`: The CSS property (e.g. `"transform"` or `"transformOrigin"`).
 
 #### Return
