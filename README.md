@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save cross-style
+# Using npm
+npm install --save cross-style
+
+# Using yarn
+yarn add cross-style
 ```
 
 
